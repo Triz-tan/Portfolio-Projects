@@ -14,7 +14,7 @@ My academic background has equipped me with the necessary skills to excel in the
 
 Skills Demonstrated
 
-Data Cleaning and Preprocessing,Exploratory Data Analysis (EDA), Data Visualization, Statistical AnalysisReport, Writing and Presentation
+Data Cleaning and Preprocessing, Exploratory Data Analysis (EDA), Data Visualization, Statistical AnalysisReport, Writing and Presentation
 
 
 Future Endeavors
